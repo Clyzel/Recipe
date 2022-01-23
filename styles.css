@@ -1,6 +1,7 @@
 h1{
   font-family: 'BioRhyme', serif;
   font-size: xxx-large;
+  text-align: center
 }
 
 .description {
@@ -9,4 +10,13 @@ h1{
 .left {
   max-width: 600px;
   float: left;
+  margin-top: 25px;
+}
+
+.right {
+  max-width: 600px;
+  float: left;
+  margin-left: 35px;
+  margin-top: ;
+
 }
