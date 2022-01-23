@@ -6,3 +6,7 @@ h1{
 .description {
   max-width: 600px;
 }
+.left {
+  max-width: 600px;
+  float: left;
+}
